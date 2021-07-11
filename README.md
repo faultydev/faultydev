@@ -1,5 +1,5 @@
 ### Hi there 👋
-
-I've moved!
-https://sr.ht/~faulty
-https://gitlab.com/fautydev
+  
+I've moved!  
+https://sr.ht/~faulty  
+https://gitlab.com/fautydev  
