@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on The Sophie Project
-- 🌱 I’m currently learning TypeScript
+I've moved!
+https://sr.ht/~faulty
+https://gitlab.com/fautydev
